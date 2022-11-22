@@ -1,0 +1,9 @@
+학생 student
+교수 professor
+사과 apple
+빨강 red
+파랑 blue
+노랑 yellow
+초록 green
+파랑 blue
+바나나 banana
